@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My wechat</string>
+    <string name="WeChat">WeChat</string>
+    <string name="微信">微信</string>
+    <string name="朋友">朋友</string>
+    <string name="通讯录">通讯录</string>
+    <string name="设置">设置</string>
+    <string name="这是微信界面">微信界面</string>
+    <string name="这是朋友界面">朋友界面</string>
+    <string name="这是通讯录界面">通讯录界面</string>
+    <string name="这是设置界面">设置界面</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
